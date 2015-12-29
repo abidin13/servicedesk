@@ -1,0 +1,567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"boo",
+				"bootstrap"
+			],
+			[
+				"operat",
+				"operators"
+			],
+			[
+				"ne",
+				"new 	Language Construct"
+			],
+			[
+				"di",
+				"die()	Language Construct"
+			],
+			[
+				"stat",
+				"static 	Language Construct"
+			],
+			[
+				"var",
+				"var_dump()	standard Function"
+			],
+			[
+				"print",
+				"print_r()	standard Function"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"html",
+				"htmlentities()	standard Function"
+			],
+			[
+				"spl",
+				"spl_autoload_register()	SPL Function"
+			],
+			[
+				"requi",
+				"require_once	Language Construct"
+			],
+			[
+				"requ",
+				"require_once	Language Construct"
+			],
+			[
+				"ses",
+				"session_start()	session Function"
+			],
+			[
+				"inc",
+				"include_once	Language Construct"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/Register.php",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/register/register.php",
+			"settings":
+			{
+				"buffer_size": 5570,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/home.php",
+			"settings":
+			{
+				"buffer_size": 49669,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"th",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 534.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/servicedesk",
+		"/D/xampp/htdocs/servicedesk/application",
+		"/D/xampp/htdocs/servicedesk/application/config",
+		"/D/xampp/htdocs/servicedesk/assets",
+		"/D/xampp/htdocs/servicedesk/assets/bower_components",
+		"/D/xampp/htdocs/servicedesk/assets/bower_components/bootstrap",
+		"/D/xampp/htdocs/servicedesk/assets/css",
+		"/D/xampp/htdocs/servicedesk/assets/js",
+		"/D/xampp/htdocs/servicedesk/system",
+		"/D/xampp/htdocs/servicedesk/system/libraries"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/servicedesk/application/config/autoload.php",
+		"/D/xampp/htdocs/servicedesk/assets/css/register.css",
+		"/D/xampp/htdocs/servicedesk/application/views/home.php",
+		"/D/xampp/htdocs/servicedesk/application/views/register/register.php",
+		"/D/xampp/htdocs/servicedesk/application/controllers/Welcome.php",
+		"/D/xampp/htdocs/servicedesk/application/config/config.php",
+		"/D/xampp/htdocs/servicedesk/assets/js/register.js",
+		"/D/xampp/htdocs/servicedesk/.htaccess",
+		"/D/xampp/htdocs/servicedesk/application/controllers/LoginController.php",
+		"/D/xampp/htdocs/servicedesk/application/views/login/login.php",
+		"/D/xampp/htdocs/template1/send_form_email.php",
+		"/D/xampp/htdocs/emeeting/emeeting.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/quantity_so_ver2.sql",
+		"/D/xampp/htdocs/loginoop/vendor/cartalyst/sentry/schema/mysql.sql",
+		"/D/xampp/htdocs/loginoop/composer.json",
+		"/Z/xampp/htdocs/produksi/class/lib.class.php",
+		"/Z/xampp/htdocs/fire_system/config/konek.php",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/order_vs_kapasitas_vs_ttlproduksi_ver4.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/kapasitas_mesin_sc_2925.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/cek_receive_and_po.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/order_vs_kapasitas_vs_ttlproduksi_ver3.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/order_vs_kapasitas_vs_ttlproduksi.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/cek_receiving.sql",
+		"/D/GTA V/steam_api.ini",
+		"/C/Users/febriyant.abidin/Desktop/proyek.sql",
+		"/C/Users/febriyant.abidin/Desktop/wfretry.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/YNP_GET_KAPASITAS_VER2.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/YNP_GET_KAPASITAS.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/SUMSO_KAPASITAS_HARI_TOTALKAPASITAS.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/quantity_so_no_pivot.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/qty_order_per_bulan_ver2.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/qty_order_per_bulan.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/kapasitas_vs_SO.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/order_vs_kapasitas_vs_ttlproduksi_ver2.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/get_account.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/retry_approve_journal.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/mtl_subinventory.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/mtl_transaction.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/update_effective_date_tax.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/cek_error_lot_indivisible.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/report/cash_flow_2.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/cek_period_inventory.sql",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/cek/update_mail_status_user.sql",
+		"/D/xampp/htdocs/helpdesk/functions/sanitize.php",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/xampp/htdocs/helpdesk/index.php",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/helpdesk/core/init.php",
+		"/D/xampp/htdocs/helpdesk/includes/error/404.php",
+		"/D/xampp/htdocs/helpdesk/classes/DB.php",
+		"/D/xampp/htdocs/helpdesk/login.php",
+		"/D/xampp/htdocs/helpdesk/logout.php",
+		"/D/xampp/htdocs/helpdesk/changepassword.php",
+		"/D/xampp/htdocs/helpdesk/profile.php",
+		"/D/xampp/htdocs/helpdesk/register.php",
+		"/D/xampp/htdocs/helpdesk/update.php",
+		"/D/xampp/htdocs/helpdesk/classes/Config.php",
+		"/D/xampp/htdocs/helpdesk/classes/Cookie.php",
+		"/D/xampp/htdocs/helpdesk/classes/Hash.php",
+		"/D/xampp/htdocs/helpdesk/classes/Input.php",
+		"/D/xampp/htdocs/helpdesk/classes/Redirect.php",
+		"/D/xampp/htdocs/helpdesk/classes/Session.php",
+		"/D/xampp/htdocs/helpdesk/classes/Token.php",
+		"/D/xampp/htdocs/helpdesk/classes/User.php",
+		"/D/xampp/htdocs/helpdesk/classes/Validation.php",
+		"/D/xampp/htdocs/helpdesk/model/connection.php",
+		"/D/xampp/htdocs/helpdesk/resource/css/style.css",
+		"/D/xampp/htdocs/helpdesk/admin.php",
+		"/D/xampp/htdocs/helpdesk/model/User.php",
+		"/D/xampp/htdocs/helpdesk/model/user.model.php",
+		"/D/xampp/htdocs/helpdesk/model/user.php",
+		"/D/xampp/htdocs/belajaroop/library.php",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/lib.class.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"helper",
+			"img",
+			"helper",
+			"placeholder",
+			"signin",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/Register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"history_list_is_closing": true,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 236.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "application/views/register/register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								798,
+								798
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1049,
+								1049
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "servicedesk.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"register",
+				"application\\views\\register\\register.php"
+			],
+			[
+				"cekre",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"",
+				"cek\\cek_receive_and_po.sql"
+			],
+			[
+				"get",
+				"cek\\get_user_n_password.sql"
+			],
+			[
+				"bre",
+				"report\\qty_order_per_bulan_ver2.sql"
+			],
+			[
+				"vs",
+				"report\\order_vs_kapasitas_vs_ttlproduksi.txt"
+			],
+			[
+				"so",
+				"report\\quantity_so_ver2.sql"
+			],
+			[
+				"up",
+				"cek\\update_mail_status_user.sql"
+			],
+			[
+				"quer",
+				"report\\query sample all.sql"
+			],
+			[
+				"rece",
+				"cek\\cek_receive_and_po.sql"
+			],
+			[
+				"acc",
+				"report\\get_account.sql"
+			],
+			[
+				"ce",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"ka",
+				"report\\SUMSO_KAPASITAS_HARI_TOTALKAPASITAS.sql"
+			],
+			[
+				"cek",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"cekrece",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"index",
+				"D:\\xampp\\htdocs\\helpdesk\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "hel",
+		"selected_items":
+		[
+			[
+				"hel",
+				"D:\\xampp\\htdocs\\helpdesk\\helpdesk.sublime-project"
+			],
+			[
+				"",
+				"D:\\xampp\\htdocs\\belajaroop\\belajaroop.sublime-project"
+			],
+			[
+				"per",
+				"D:\\xampp\\htdocs\\perpustakaan_ci\\perpustakaan_ci.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
